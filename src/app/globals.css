@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@import "../../src/components/CubicThreeDimension.module.css";
 
 :root {
   --background: #ffffff;
